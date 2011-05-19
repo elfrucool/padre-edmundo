@@ -1,0 +1,15 @@
+\begin{table}[h]
+    \centering
+    \caption{Gasto promedio mensual en educación por integrante de familia}
+    \label{tbl:EIGHG:gastos}
+    \begin{tabular}{l|c|c|c|c}
+        TIPO DE GASTO & MINIMO  & MAXIMO      & PROMEDIO  & DESVEST   \\
+        \hline
+        \hline
+        Colegiaturas  & \$ 0.00 & \$ 7,900.00 & \$ 235.20 & \$ 689.30 \\
+        Inscripción   & \$ 0.00 & \$ 6,500.00 & \$ 138.90 & \$ 560.40 \\
+        Material      & \$ 0.00 & \$ 8,500.00 & \$ 213.00 & \$ 337.80 \\
+        \hline
+        \multicolumn{5}{l}{Fuente: \cite{INEGI-2009-DGES-003}}
+    \end{tabular}
+\end{table}

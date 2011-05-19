@@ -1,0 +1,313 @@
+\chapter{Administración de Operaciones}
+
+\section{Plan de Inicio}
+\label{sec:Plan:Inicio}
+
+A continuación se describe el plan de inicio, de los nueve aspectos de la planeación señalados por el Project Management Institute \cite{PMBOK2008} se destacan cinco por considerarse los más relevantes para el presente trabajo:
+
+\begin{description}
+	\item [Alcance]  Las tareas y resultados que se deben obtener, así como su interdependencia.
+	\item [Tiempo]   El tiempo que tomará realizar el alcance y la distrubición de las tareas en el calendario.
+	\item [Costo]    El costo asociado al logro de los resultados.
+	\item [Insumos]  Los materiales requeridos para realizar las tareas.
+	\item [Personal] Las personas responsables de cada parte del alcance
+\end{description}
+
+El detalle del plan se puede apreciar en los cuadros \ref{tbl:Proy:Gantt}, \ref{tbl:Proy:Costos}, \ref{tbl:Proy:Personal:Costos} y \ref{tbl:Proy:Insumos}. (Páginas \pageref{tbl:Proy:Gantt}, \pageref{tbl:Proy:Costos}, \pageref{tbl:Proy:Personal:Costos} y \pageref{tbl:Proy:Insumos} respectivamente); se consideró un enfoque basado en esfuerzo (horas/hombre) para todas las tareas excepto aquellas que demandaban una cobertura de tiempo\footnote{Se utilizó la herramienta TaskJuggler para la programación y cómputo de los tiempos y costos (\texttt{http://www.taskjuggler.org/})}.
+
+Conviene hacer una aclaración sobre el estimado del proyecto: los datos obtenidos se consideran provisionales, una vez que se integre el \emph{staff} del proyecto, se delegará a cada responsable la programación detallada de su encargo y se reestimarán tiempos y costos.\label{sec:Proy:Aclaracion}
+
+\subsection{Alcance}
+
+Para que la escuela inicie sus operaciones exitosamente se requiere lograr los siguientes resultados:
+
+\begin{itemize}
+	\item Conformación del Patronato
+	\item Procesos internos y reglamento elaborados
+	\item Infraestructura, instalaciones. servicios y mobiliario listos
+	\item Material didáctico disponible
+	\item Personal contratado y capacitado
+	\item Planes y programas de estudio elaborados
+	\item Permisos y trámites realizados
+	\item Promoción realizada
+	\item Patrocinios y enlaces empresariales listos
+\end{itemize}
+
+\subsection{Tiempo}
+
+Las actividades para iniciar el bachillerato tienen una duración de 7,280 horas, comenzando el 1º de diciembre de 2010 y terminando el 18 de julio  de 2011.
+
+\subsection{Costo}
+\label{sub:Proy:Costo}
+
+El costo está asociado directamente con los insumos y el tiempo que cada persona dedica al proyecto (sueldos y honorarios). Iniciar este proyecto demanda \$~2,757,975.00; de los cuales, \$~1,806,300.00 corresponden a insumos y \$~951,675.00 a sueldos y honorarios del \emph{staff} del proyecto.
+
+\subsection{Insumos}
+
+Los insumos se detallan en el cuadro \ref{tbl:Proy:Insumos} (página \pageref{tbl:Proy:Insumos}). Se dividen en tres grupos: infraestructura, mobiliario y equipamiento (talleres y salas de cómputo).
+
+Por infraestructura se requiere invertir \$~197,300.00, el costo del mobiliario es de \$~509,000.00 y para equipamiento se consideraron \$~1,100,000.00.
+
+\subsection{Personal}
+
+El \emph{staff} requerido para iniciar el proyecto está conformado por 15 personas cubriendo los siguientes roles (cuadro \ref{tbl:Proy:Personal:Costos}):
+
+\begin{itemize}
+	\item Patrocinador (una persona)
+	\item Relaciones Públicas (cuatro personas)
+	\item Líder de Proyecto (una persona)
+	\item Infraestructura\footnote{Responsable de dar seguimiento a los servicios de remodelación contratados, gestionar las compras y la instalación del mobiliario por parte del proveedor} (una persona)
+	\item Docencia y Pastoral (tres personas)
+	\item Capital Humano (tres personas)
+	\item Asuntos legales (una persona)
+\end{itemize}
+
+\clearpage
+
+\input{tables/proy_gantt}
+
+\input{tables/proy_costos}
+
+\input{tables/proy_personal_costos}
+
+\input{tables/proy_insumos}
+
+\clearpage
+%\section{Plan de Producción}
+
+\section{Plan de Operaciones}
+
+El plan de operaciones surge de la exploración de las actividades más relevantes de la institución, las cuales, a su vez desembocan en la estructura organizacional necesaria para operar.
+
+\subsection{Actividades}
+
+Una enumeración preliminar de las actividades se muestra en el cuadro \ref{tbl:Oper:Actividades}. A modo de lluvia de ideas se obtuvieron las tareas de mayor relevancia para el funcionamiento de la escuela, posteriormente se ordenaron de acuerdo a su periodicidad y a partir de ahi se identificaron las siguientes dos áreas de operacion:
+
+\begin{description}
+	\item[Actividades de Docencia]
+		Todas aquellas relacionadas directamente con el proceso de enseñanza-aprendizaje de los jóvenes.
+	\item[Actividades Administrativas]
+		Son las relativas al sostenimiento y funcionamiento del bachillerato en cuanto organización humana.
+\end{description}
+
+Se tiene programado un mapeo a fondo de los procesos internos de la institución como puede observarse en el cuadro \ref{tbl:Proy:Gantt} (página \pageref{tbl:Proy:Gantt})\footnote{Considérese la aclaración sobre la provisionalidad de las fechas y detalles del plan de inicio como se indica en la página \pageref{sec:Proy:Aclaracion}}.
+
+\input{tables/oper_actividades}
+\clearpage
+
+\subsection{Estructura Organizacional}
+
+La estructura organizacional del bachillerato se considera desde dos ángulos diferentes: estructura funcional de puestos de trabajo y órganos de representación.
+
+\subsubsection{Estructura Funcional}
+
+Funcionalmente, las actividades de la escuela pueden clasificarse en cuatro rubros: a) docencia, b) pastoral, c) administración y d) relaciones públicas. El rubro con más personal a su cargo es el de docencia, pues incluye a todos los profesores. Se propone un coordinador por cada carrera técnica que se abra. El organigrama final completo puede observarse en la figura \ref{fig:Org:Final}.
+
+%La escuela divide sus actividades en dos grandes grupos funcionales: docencia y administración, mostrados en las figuras \ref{fig:Org:Docencia} y \ref{fig:Org:Administracion}; un director general es el vínculo entre ambase estructuras, las cuales consideran a la institución en un estado de desarrollo ya maduro y con la matrícula suficiente (más del 50\% de la capacidad instalada).
+
+Para iniciar operaciones se tiene un organigrama inicial mostrado en la figura \ref{fig:Org:Inicial}; el cual parte del \emph{staff} de inicio del proyecto e irá evolucionando hasta el organigrama final mediante la delegación paulatina de responsabilidades en personal a cargo.
+
+De igual forma, los sueldos en los cargos jerárquicos se incrementarán a medida que incrementa el alumnado; esta medida que inicialmente es de ahorro ante un escenario pesimista, constituye al mismo tiempo un aliciente para lograr el mayor éxito de la escuela (ver el cuadro \ref{tbl:Org:Sueldos} de la página \pageref{tbl:Org:Sueldos}).
+
+Los sueldos propuestos se basan en los siguientes criterios: para el profesorado y niveles jerárquicos bajos el retribuir justamente un trabajo frecuentemente minusvalorado. Para los niveles jerárquicos de autoridad: resolver la tensión que por un lado produce la necesidad de contar con personas altamente capaces y comprometidas; y por otra parte, la práctica de austeridad que acerque a los directivos a aquellos a quienes desean beneficiar y servir: los pobres.
+
+\begin{figure}
+	\centering
+	\includegraphics[scale=0.7]{images/organigrama-final}
+	\caption{Organigrama Final. Fuente: Elaboración Propia.}
+	\label{fig:Org:Final}
+\end{figure}
+
+\begin{figure}
+	\centering
+	\includegraphics[scale=0.7]{images/organigrama-inicial}
+	\caption{Organigrama Inicial. Fuente: Elaboración Propia.}
+	\label{fig:Org:Inicial}
+\end{figure}
+
+\input{tables/org_sueldos}
+\clearpage
+
+\subsubsection{Órganos de Representación}
+
+La escuela cuenta con los siguientes órganos de representación:
+
+\begin{description}
+	\item[Patronato]
+		Es la máxima autoridad de la escuela, a este órgano rinde cuentas el director por los resultados obtenidos. Tiene un presidente a la cabeza, el cual será siempre un miembro de la congregación salesiana.
+	\item[Consejo Escolar]
+		Se reunen con el propósito de proponer mejoras a la escuela tanto académicas como estratégicas. A partir de esta información se mejorará el plan estratégico de la institución. El presidente es el director.
+	\item[Sociedad de Alumnos]
+		Tiene como finalidad representar a los estudiantes ante el consejo escolar, además de realizar diversas tareas de servicio en coordinación con el alumnado. Tiene un presidente y una planilla que son electos por sus compañeros una vez al año.
+\end{description}
+
+\begin{figure}[h]
+	\centering
+	\includegraphics{images/organos}
+	\caption{Órganos de Representación. Fuente: Elaboración Propia.}
+	\label{fig:Org:Organos}
+\end{figure}
+\clearpage
+
+\section{Aspectos Contables y Legales}
+
+Se consideran dos figuras legales para la constitución de la escuela, en una primera etapa se trata de una Institución de Asistencia Privada (I.A.P.) ya existente: Vida y Esperanza de México, I.A.P.\footnote{\texttt{http://www.enlace.df.gob.mx/busqueda/consultaOsc2.html?b=V}}; la segunda etapa será constituir una Asociación Civil (A.C.) específica para el bachillerato.
+
+La razón de contemplar ambas opciones es la siguiente: la I.A.P. ya existe y goza de prestigio; permite comenzar la labor. La A.C. le dará mayor independencia a la escuela, sin embargo, el reconocimiento oficial toma más de un año.
+
+\subsection{Consideraciones Generales}
+
+La comunidad salesiana en Irapuato, cuenta actualmente con el apoyo de un despacho contable y legal para el cumplimiento de sus obligaciones, especialmente de la fundación Vida y Esperanza de México, I.A.P.; este mismo despacho brindará sus servicios a la escuela en el áres de su competencia.
+
+Como parte de los servicios prestados por el despacho, se contemplan las declaraciones fiscales mensuales y anuales. Apoyo durante las auditorías; revisión de contratos laborales y de servicios, litigios, entre otros.
+
+Se consideran los aspectos legales desde dos niveles: federal y local. En el ámbito federal, lo más importante es la autorización de la SEP. El Reconocimiento de Estudios por parte de la autoridad educativa se piensa obtener mediante la figura de extensión de los bachilleratos tecnológicos ya incorporados ante la SEP por parte de otros colegios salesianos.
+
+En el ámbito local, el aspecto más importante a cubrir es el de protección civil. El requisito es tener a una persona que asista a las capacitaciones y después transmita este conocimiento, a la par que se realizan simulacros y se colocan los señalamientos.
+
+\subsection{Vida y Esperanza de México, I.A.P.}
+
+Esta Fundación existe desde hace varios años, cuenta con la autorización de la Secretaría de Hacienda y Crédito Público (S.H.C.P.) para recibir donativos y extender recibos deducibles de impuestos, tiene por objeto social la educación y es presidida por el Pbro. Edmundo Morales Romero, S.D.B.
+
+La principal obligación de la I.A.P. consiste en que cada año es auditada externamente.
+
+\subsection{Una A.C. para el Bachillerato Tecnológico}
+
+Con el propósito de darle independencia legal y financiera a la institución, se tiene pensado crear una A.C. específica; el trámite ante la S.H.C.P. toma de uno a dos años.
+
+En términos generales, una I.A.P. está más acotada por la ley en cuanto a sus funciones y tiene mayor intervención gubernamental tanto en su constitución como en su operación.
+
+Las principales obligaciones de una A.C. son llevar los registros contables y presentar declaraciones mensuales y anuales.
+
+\section{Costos}
+\label{sec:Costos}
+
+En una institución educativa, el costo más importante está en los sueldos y salarios; en particular, la nómina de profesores es directamente proporcional al número de estudiantes. Siendo, para este caso, 35 horas por grupo de 30 estudiantes.
+
+La estructura organizacional también aumenta para garantizar el buen orden de las actividades y la coordinación de todos los integrantes de la comunidad.
+
+Para efectos de simplicidad se consideró un profesor de tiempo completo por grupo; sin embargo, en la práctica, la planta docente tiende a ser mucho mayor.
+
+Igualmente, todos los sueldos se colocaron en el rubro de costos fijos, siguiendo el esquema tradicional que se tiene en esta materia.
+
+Como se verá más adelante\footnote{Sección \ref{sec:RecursosColaterales}, página \pageref{sec:RecursosColaterales}.}, se intentará reducir el costo en los diversos rubros mediante patrocinios enfocados.
+
+Un aspecto importante a considerar es la inflación; para este proyecto se consideró de 5\% anual excepto para sueldos, que es de 2.5\% (\cite{BANXICO}).
+
+\subsection{Costos Variables}
+
+Los costos variables están conformados por el material de papelería, didáctico y de talleres. El material de talleres representa la parte más importante. Las carreras técnicas específicas que se impartirán tienen pendiente su definición, por tanto, el costo preciso de materiales y maquinaria también. Esta es la razón por la que los costos se estimaron sobre una base genérica por grupo (cuadro \ref{tbl:Costos:Variables}).
+
+\input{tables/costos_variables}
+
+\subsection{Costos Fijos}
+
+El cuadro \ref{tbl:Costos:Fijos} muestra los costos fijos, éstos se integran por los servicios subcontratados (vigilancia, limpieza, etc.), los de infraestructura (agua, luz, etc.), las actividades de promoción (publicidad) y la nómina en sus diferentes niveles.
+
+Para el caso de los servicios subcontratados de vigilancia y limpieza se consideró como unidad el sueldo/mes/hombre. En el caso del despacho contable y legal, una anualidad. Para los servicios de infraestructura (agua, luz, teléfono con internet) se calculó una anualidad mediante la interpolación sobre el estado de resultados de un colegio de menor tamaño en Irapuato\footnote{Uno de los interesados en el proyecto trabaja como administrativo de un bachillerato de pequeño tamaño, fue quien aportó los estados de resultados de su centro de trabajo.}.
+
+\input{tables/costos_fijos}
+
+\input{tables/sueldos_detalle_1}
+
+\input{tables/sueldos_detalle_2}
+
+\clearpage
+\section{Presupuestos}
+
+Un presupuesto es el cálculo anticipado de los ingresos y gastos de una actividad económica durante un periodo, por lo general anual. Es un plan de acción dirigido a cumplir una meta prevista expresada en términos financieros.
+
+Los presupuestos de este proyecto se clasifican en los siguientes tres rubros:
+
+\begin{itemize}
+	\item Presupuesto de ingresos (proyección de ventas)
+	\item Inversión inicial
+	\item Presupuesto de egresos
+\end{itemize}
+
+\subsection{Proyección de Ventas}
+
+Considerando una colegiatura base de \$ 3,000.00 se considera un porcentaje de becas distinto para cada escenario, siendo para el escenario pesimista de 20\%, 30\% para el escenario intermedio y 40\% en el escenario idealista. El objetivo es ofrecer una mayor cobertura de becas a medida que la matrícula estudiantil aumenta pues es un proyecto que busca atender a los más necesitados (cuadros \ref{tbl:ProyeccionIngreso} y \ref{tbl:ProyeccionIngreso:Anual} y figura \ref{fig:ProyeccionIngresos}).
+
+\input{tables/proyeccion_ingreso}
+
+\input{tables/proyeccion_ingreso_anual}
+
+\begin{figure}
+	\centering
+	\includegraphics[scale=0.7]{images/proyeccion_ingresos}
+	\caption{Proyecci\'on del Ingreso para los Primeros Cinco Años\newline (Ingreso Anual). Fuente: Elaboración Propia, 2010.}
+	\label{fig:ProyeccionIngresos}
+\end{figure}
+
+\subsection{Inversión Inicial}
+
+La inversión inicial está compuesta por el activo fijo y el activo circulante necesario para operar; el activo circulante inicial contiene el costo de inicio de proyecto (\$951,675.00)\footnote{Ver la subsección \ref{sub:Proy:Costo}, página \pageref{sub:Proy:Costo}.
+
+Los costos del proyecto se dividen en dos: los montos para remodelación y material inicial se incluyen en la inversión en activo fijo y los sueldos y honorarios del proyecto en el activo circulante inicial.} y una cantidad inicial de becas que se considera en \$1,000,000.00.
+
+Se espera obtener un patrocinio inicial de \$3,000.000.00 y un crédito bancario por \$2,308,390.00. Además, se tiene intención de renovar la infraestructura (activo fijo) a lo largo del tiempo. En total, la inversión inicial es de \$11,579,099.40 (ver cuadro \ref{tbl:InversionInicial})
+
+\input{tables/inversion_inicial}
+
+\subsubsection{Activo fijo}
+
+El activo fijo está conformado por el terreno, los edificios, el mobiliario existente y las nuevas inversiiones: mobilidario nuevo, equipos de cómputo, pupitres y maquinaria de taller.
+
+Cabe resaltar que la maquinaria de taller se estimó sobre un presupuesto base de \$500,000.00 teniendo en cuenta la pendiente elección de las carreras técnicas a impartir. Una vez definidas éstas, se actualizará el cálculo de este rubro. Los dos años siguientes se estimó un 20\% de inversión por concepto de expansión.
+
+El cuadro \ref{tbl:ActivoFijo} muestra el presupuesto anual para activo fijo.
+
+\input{tables/activo_fijo}
+
+\subsection{Presupuesto de Egresos}
+
+El presupuesto de egresos está compuesto por los costos\footnote{Sección \ref{sec:Costos}, página \pageref{sec:Costos}}, la depreciación y los gastos relacionados con el préstamo financiero\footnote{Sección \ref{sec:Financiamiento}, página \pageref{sec:Financiamiento}}.
+
+\subsubsection{Depreciación}
+
+La depreciación es la pérdida de valor de un bien. Cada año pierde un porcentaje del valor inicial hasta perder completamente su valor. Los terrenos no se deprecian, los edificios tienen una depreciación de 5\% anual y el mobiliario de 20\%; el equipo de cómputo se debe renovar cada 4 años, mientras que los pupitres cada 3; esto principalmente por el uso rudo a que están expuestos. Para la maquinaria de taller se consideró una depreciación anual de 20\%.
+
+El cuadro \ref{tbl:Depreciacion} presenta los detalles de la depreciación.
+
+\input{tables/depreciacion}
+
+\subsection{Otros Presupuestos}
+\label{sub:Otros:Presupuestos}
+
+El activo diferido está constituido por gastos pagados por anticipado, sobre los cuales se tiene el derecho de recibir un servicio aprovechable, tanto en el mismo ejercicio como en posteriores. La amortización es la aplicación a gasto de un activo diferido en proporción a su valor y al tiempo estimado de vida; la amortización anual se calcula dividendo su valor original entre el número de ejercicios que se le estima de vida probable, siempre y cuando se considere que al concluir su vida probable no tenga ningún valor\footnote{\texttt{http://www.angelfire.com/cantina/contaii/Activo\%20Diferido.htm}}.
+
+Entre las cuentas comúnmente consideradas en el activo diferido, destacan las licencias de marca, los permisos y licencias de funcionamiento, patentes, certificaciones y cursos de capacitación.
+
+Este proyecto no considera activos diferidos durante los primeros cinco años por las siguientes razones\footnote{Entrevista telefónica con el Pbro. Edmundo Morales Romero, S.D.B.; 24 de noviembre de 2010}:
+
+\begin{itemize}
+	\item La <<patente>> salesiana (logo, nombre, etc.) no tiene costo alguno de uso para miembros de la comunidad.
+	\item No se incurre en costos por licencias y permisos de funcionamiento: información aportada por el Pbro. Edmundo Morales Romero, S.D.B., con experiencia de tres bachilleratos fundados.
+	\item No se tiene contemplado de inicio adquirir certificados o cursos de certificación cuya validez haya que renovar cada cierto tiempo.
+	\item El gasto publicitario está incluido en el rubro de costos fijos y se va ejerciendo sobre una base mensual.
+\end{itemize}
+
+\section{Estados Financieros Proforma}
+
+Los estados financieros proforma son aquellos que se proyectan a futuro. Los más relevantes son el estado de resultados y el balance general.
+
+\subsection{Estado de Resultados Proforma}
+
+El estado de resultados proforma es aquel en donde se puede evaluar la utilidad de la empresa en un periodo de tiempo. Es por naturaleza dinámico, supone el comportamiento del dinero en un periodo de tiempo determinado. En él se integran los presupuestos relacionados con los ingresos y los costos así como los gastos financieros y los impuestos. Las observaciones e interpretación de este estado financiero se plasmarán en la sección \ref{sec:AnalisisVertical} de la página \pageref{sec:AnalisisVertical} y la sección \ref{sec:AnalisisHorizontal} de la página \pageref{sec:AnalisisHorizontal}.
+
+El estado de resultados proforma se muestra en el cuadro \ref{tbl:EstadoResultados}.
+
+\subsection{Balance General Proforma}
+
+El balance general o estado de situación patrimonial indica en un momento dado cómo se encuentran los recursos de una empresa. Todo lo que posee una empresa (activo) proviene de dos fuentes: préstamos (pasivo) y aportaciones de los socios (capital).
+
+De aquí la fórmula básica del balance general:
+
+$$ A = P + C $$
+
+Los comentarios e interpretación del balance general, son materia del siguiente capítulo, de momento únicamente se presenta este estado financiero en el cuadro \ref{tbl:Balance:General}.
+
+\input{tables/estado_resultados}
+
+\input{tables/balance_general}

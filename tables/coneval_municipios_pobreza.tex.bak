@@ -1,0 +1,26 @@
+\begin{table}
+    \centering
+    \caption{Municipios con mayor y menor grado de Pobreza\newline por Ingresos}
+    \label{tbl:CONEVAL:MunicipiosPobreza}
+    \footnotesize
+    \begin{tabular}{c|l|r||c|c|c}
+                       &                &           & POBREZA     & POBREZA DE  & POBREZA DE \\
+                       & MUNICIPIO      & POBLACIÓN & ALIMENTARIA & CAPACIDADES & PATRIMONIO \\ 
+        \hline \hline
+        Estatal        & Guanajuato     & 4,893,812 & 18.9 \%     & 26.6 \%     & 51.6 \%    \\ 
+        \hline
+        Municipios     & Xichú          &    10,592 & 60.8 \%     & 68.5 \%     & 83.6 \%    \\ 
+        con mayor      & Atarjea        &     5,035 & 58.8 \%     & 67.1 \%     & 83.2 \%    \\ 
+        porcentaje     & Tierra Blanca  &    16,136 & 50.9 \%     & 59.4 \%     & 77.3 \%    \\ 
+        de pobreza     & Victoria       &    19,112 & 47.4 \%     & 55.4 \%     & 73.2 \%    \\ 
+                       & Santa Catarina &     4,544 & 41.3 \%     & 47.8 \%     & 64.4 \%    \\ 
+        \hline
+        Municipios     & Irapuato       &   463,103 & 14.0 \%     & 21.2 \%     & 46.9 \%    \\ 
+        con menor      & Uriangato      &    53,077 & 11.6 \%     & 19.9 \%     & 50.4 \%    \\ 
+        porcentaje     & Celaya         &   415,869 & 11.5 \%     & 17.9 \%     & 41.3 \%    \\ 
+        de pobreza     & Moroleón       &    46,751 &  9.5 \%     & 16.1 \%     & 42.6 \%    \\ 
+                       & León           & 1,278,087 &  7.9 \%     & 13.6 \%     & 38.2 \%    \\ 
+        \hline
+        \multicolumn{6}{l}{\footnotesize Fuente: \cite{Coneval2009}}
+    \end{tabular}
+\end{table}

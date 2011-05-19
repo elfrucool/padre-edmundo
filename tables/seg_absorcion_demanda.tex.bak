@@ -1,0 +1,31 @@
+\begin{table}
+	\centering
+    \caption{\'Indices de Absorci\'on y de Atenci\'on a la Demanda Estatal}
+    \label{tbl:SEG:AbsorcionYDemandaEstatal}
+    \footnotesize
+    \begin{tabular}{l||r|r|r|r|r|r||r}
+        \hline
+        \hline
+                      & \multicolumn{7}{|c}{ABSORCION}                                                  \\
+        \hline
+        MUNICIPIO     & 04-05     & 05-06     & 06-07     & 07-08     & 08-09     & 09-10     & PROMEDIO \\
+        \hline
+        Estado        &  80.40\%  &  83.00\%  &  87.80\%  &  84.90\%  &  86.00\%  &  86.40\%  &  84.75\% \\
+        Tierra Blanca & 125.00\%  & 130.90\%  & 133.30\%  & 115.40\%  & 119.10\%  & 120.50\%  & 124.03\% \\
+        Celaya        & 106.50\%  & 108.60\%  & 121.30\%  & 113.60\%  & 120.00\%  & 117.60\%  & 114.60\% \\
+        Irapuato      &  88.60\%  &  89.40\%  &  94.10\%  &  87.00\%  &  83.50\%  &  85.70\%  &  88.05\% \\
+        \hline
+        \hline
+                      & \multicolumn{7}{|c}{ATENCION A LA DEMANDA ESTATAL}                    \\
+        \hline
+        MUNICIPIO     & 04-05   & 05-06   & 06-07   & 07-08   & 08-09    & 09-10    & PROMEDIO \\
+        \hline
+        Estado        & 76.90\% & 77.90\% & 82.20\% & 79.00\% &  81.10\% &  81.00\% & 79.68\%  \\
+        Uriangato     & 84.20\% & 90.10\% & 94.30\% & 87.50\% & 147.30\% &  88.20\% & 98.60\%  \\
+        Tierra Blanca & 89.00\% & 95.40\% & 90.20\% & 86.40\% &  97.40\% &  88.50\% & 91.15\%  \\
+        Atarjea       &  0.00\% &  0.00\% &  0.00\% &  0.00\% &  20.00\% & 119.80\% & 23.30\%  \\
+        Irapuato      & 81.20\% & 81.30\% & 83.90\% & 78.30\% &  81.60\% &  80.50\% & 81.13\%  \\
+        \hline
+        \multicolumn{8}{l}{Fuente: \cite{Seg2010}}
+    \end{tabular}
+\end{table}

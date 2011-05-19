@@ -1,0 +1,20 @@
+\begin{table}
+	\centering
+    \caption{Datos Generales de Poblaci\'on}
+    \label{tbl:INEGI:PoblacionEstudiaIrapuato}
+    \begin{tabular}{p{4in}|r|r}
+        \multicolumn{1}{c|}{VARIABLE}
+        	& \multicolumn{1}{c|}{2000$^{/a}$}
+        	& \multicolumn{1}{c}{2005$^{/b}$} \\
+        \hline \hline
+        Poblaci\'on total & 440,134 & 463,103 \\
+        Poblaci\'on de 15 a 19 a\~nos & 45,325 & 47,177 \\
+        Poblaci\'on de 15 a 19 a\~nos que asiste a la escuela & 17,607 & 22,117 \\
+        Poblaci\'on de 15 a 19 a\~nos con secundaria terminada & 12,688 & 16,086 \\
+        Poblaci\'on de 15 a 19 a\~nos con estudios de bachillerato$^{/c}$ & 10,109 & 14,623 \\
+        \hline
+        \multicolumn{3}{l}{$^{/a}$ \footnotesize Fuente: \cite{Inegi2000}} \\
+        \multicolumn{3}{l}{$^{/b}$ \footnotesize Fuente: \cite{Inegi2005}} \\
+        \multicolumn{3}{p{5.4in}}{$^{/c}$ \footnotesize No especifica si est\'a cursando o ya curs\'o, por el desglose de cada a\~no dentro del grupo de edad de 15 a 19 a\~nos se intuye que se refiere a ``cursando''}
+    \end{tabular}
+\end{table}

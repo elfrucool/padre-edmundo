@@ -1,0 +1,18 @@
+\begin{table}[t]
+	\centering
+    \caption{Matr\'icula Estudiantil en Bachilleratos P\'ublicos y Privados}
+    \label{tbl:SEG:MatriculaPublicoPrivado}
+    \begin{tabular}{l||c|r||r|r}
+                   & \multicolumn{2}{c||}{ESCUELAS}
+                        & \multicolumn{2}{c}{MATRICULA}    \\
+        \hline
+        TIPO       & NUMERO & \%       & NUMERO & \%       \\
+        \hline
+        \hline
+        Oficial    & 22     &  33.85\% & 10,033 &  57.75\% \\
+        Particular & 43     &  66.15\% &  7,341 &  42.25\% \\
+        TOTAL      & 65     & 100.00\% & 17,374 & 100.00\% \\
+        \hline
+        \multicolumn{5}{l}{Fuente: \cite{Seg2010}}
+    \end{tabular}
+\end{table}

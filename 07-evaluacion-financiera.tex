@@ -1,0 +1,99 @@
+\chapter{Evaluación Financiera}
+\label{cap:Evaluacion:Financiera}
+
+En el presente capítulo se presenta la evaluación del proyecto bajo diversas metodologías cuya intención es mostrar qué tan atractivo es como negocio o inversión (por ejemplo, para un accionista)\footnote{Para este cap\'{\i}tulo se consultaron las obras de \citep{Conant2004, COSS2000, SAPAG2007, Leland2006} y se elabor\'{o} una redaccion propia.}.
+
+Desde el principio, esta escuela no se considera un negocio en el sentido tradicional de la palabra, se trata de un proyecto de interés social. Una vez logrado el objetivo de que el bachillerato camine por si solo, la intención siguiente es hacerlo aún más económico para la población sin demeritar la calidad o castigar los sueldos, especialmente de la planta docente.
+
+Para los siguientes cálculos se empleará el flujo neto de efectivo no acumulado, el cual se calcula restando el saldo inicial al saldo final (ver cuadro \ref{tbl:FNE}, página \pageref{tbl:FNE}).
+
+Se eligió una tasa de interés del 20\% considerando que el préstamo que se solicita tiene una tasa de interés de 12\%, y el 8\% adicional se considera como riesgo.
+
+\section{Período de Recuperación Simple}
+
+Es el tiempo que toma un proyecto o empresa en recuperar la inversión sin considerar los efectos del tiempo sobre el valor del dinero.
+
+Se obtiene acumulando los flujos de efectivo de cada periodo hasta que el saldo se vuelve positivo.
+
+El cuadro \ref{tbl:Recuperacion:Simple} muestra el cálculo, donde se puede apreciar que es hasta el quinto año cuando se recupera la inversión.
+
+\input{tables/recuperacion_simple}
+
+\section{Período de Recuperación Descontado}
+
+Similar al periodo de recuperación simple, sin embargo, actualiza al valor presente los flujos de efectivo antes de realizar la suma. Para convertir un valor futuro a valor presente, se utiliza la siguiente expresión:
+
+$$V_p = \frac{V_f}{\left(1+k\right)^t}$$
+
+Donde:
+
+\begin{description}
+	\item[$V_p$] Valor presente.
+	\item[$V_f$] Valor futuro.
+	\item[$k$] Tasa de interés.
+	\item[$t$] Periodo de tiempo.
+\end{description}
+
+Como puede apreciarse en el cuadro \ref{tbl:Recuperacion:Descontado}, en el plazo de cinco años que comprende el análisis no se alcanza a recuperar lo invertido.
+
+\input{tables/recuperacion_descontado}
+
+\section{Retorno Sobre la Inversión}
+
+El retorno sobre la inversión (ROI por sus siglas en inglés) mide en términos porcentuales la ganancia que se obtiene como resultado de invertir en un proyecto.
+
+Puede calcularse como:
+
+$$ROI = \frac{V_f - V_i}{V_i}$$
+
+Donde:
+
+\begin{description}
+	\item[$ROI$] Retorno de Inversión
+	\item[$V_f$] Saldo final del flujo neto de efectivo acumulado.
+	\item[$V_i$] Inversión inicial (saldo inicial del flujo neto de efectivo).
+\end{description}
+
+Este proyecto tiene un ROI de -82.27\% a cinco años.
+
+\section{Valor Presente Neto}
+
+Es el resultado de la suma algebraica de todos los flujos de efectivo (incluyendo la inversión inicial) traidos al presente. La expresión que muestra cómo se calcula el valor presente neto es:
+
+$$VPN = \sum_{t=0}^{n}{\frac{V_t}{\left(1+k\right)^t}}$$
+
+Donde:
+
+\begin{description}
+	\item[$VPN$] Valor presente neto
+	\item[$t$] Número de periodo
+	\item[$n$] Total de periodos a considerar
+	\item[$V_t$] Flujo neto de efectivo en el tiempo $t$
+	\item[$k$] Tasa de interés
+\end{description}
+
+Un valor positivo significa un proyecto rentable y uno negativo es un proyecto no rentable.
+
+El cuadro \ref{tbl:VPN} presenta el cálculo del valor presente neto para este proyecto. Dicho valor es de -\$2,582,714.82 M.N.
+
+\input{tables/vpn}
+
+\section{Tasa Interna de Rendimiento}
+
+La tasa interna de rendimiento es la tasa de interés a la cual se obtiene un valor presente neto igual a cero.
+
+Si es menor a la tasa de interés elegida significa que el proyecto no es rentable y si es mayor significa que es rentable.
+
+Este proyecto tiene una tasa interna de rendimiento de 4.05\%; lo cual explica que el periodo de recuperación descontado sea mayor a cinco años; igualmente explica por qué el valor presente neto es negativo.
+
+\section{Indice de Rentabilidad}
+
+Es la relación que existe entre los costos y los beneficios de un proyecto traidos al presente.
+
+Se calcula obteniendo el valor presente neto de los ingresos y egresos del flujo de caja (o estado de origen y aplicación de recursos)\footnote{Véase cuadro \ref{tbl:OrigenAplicacion} \pageref{tbl:OrigenAplicacion}.} y estableciendo un cociente:
+
+$$Indice Rentabilidad = \frac{VAN Ingresos}{VAN Egresos} $$
+
+El cuadro \ref{tbl:Indice:Rentabilidad} muestra los cálculos; el proyecto actual tiene un índice de rentabilidad de 1.29.
+
+\input{tables/indice_rentabilidad}
