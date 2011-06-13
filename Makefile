@@ -4,6 +4,13 @@ all: cleanpdf compile
 view:
 	evince master.pdf
 
+nomk:
+	latex master
+	bibtex master
+	latex master
+	latex master
+	dvipdfmx master.dvi
+
 compile:
 	latex-mk master
 	dvipdfmx master.dvi
