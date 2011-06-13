@@ -13,6 +13,7 @@
 \usepackage{multirow}
 \usepackage[format=hang,width=.8\textwidth]{caption}
 \usepackage[square]{natbib}
+\usepackage{wallpaper}
 
 \renewcommand*\familydefault{\sfdefault}
 \doublespacing
@@ -24,7 +25,17 @@
 
 \begin{document}
 
-\maketitle
+%\maketitle
+\ThisCenterWallPaper{0.8}{images/PORTADA-TESIS-CON-DATOS}
+~
+\thispagestyle{empty}
+\newpage
+\ThisCenterWallPaper{0.8}{images/formato-impresion}
+\thispagestyle{empty}
+~
+\newpage
+\setcounter{page}{1}
+
 \tableofcontents
 
 \include{01-intro}
