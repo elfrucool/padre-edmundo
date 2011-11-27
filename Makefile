@@ -1,4 +1,5 @@
-all: cleanpdf compile
+#all: cleanpdf compile
+all: cleanpdf nomk
 	evince master.pdf
 
 view:
