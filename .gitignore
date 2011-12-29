@@ -1,0 +1,10 @@
+# temporal files
+*.aux
+*.bbl
+*.blg
+*.dvi
+*.lof
+*.log
+*.lot
+*.pdf
+*.toc
