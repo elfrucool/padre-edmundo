@@ -1,5 +1,6 @@
 # temporal files
 *.aux
+*.bak
 *.bbl
 *.blg
 *.dvi
