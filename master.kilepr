@@ -26,10 +26,10 @@ order=-1
 
 [item:01-intro.tex]
 archive=true
-column=9
+column=271
 encoding=UTF-8
 highlight=LaTeX
-line=329
+line=351
 open=false
 order=-1
 
@@ -44,37 +44,37 @@ order=-1
 
 [item:03-mercados.tex]
 archive=true
-column=0
-encoding=UTF-8
-highlight=LaTeX
-line=2
-open=false
-order=-1
-
-[item:04-operaciones.tex]
-archive=true
-column=22
-encoding=UTF-8
-highlight=LaTeX
-line=295
-open=false
-order=-1
-
-[item:05-finanzas.tex]
-archive=true
-column=9
+column=317
 encoding=UTF-8
 highlight=LaTeX
 line=5
 open=false
 order=-1
 
-[item:06-analisis-financiero.tex]
+[item:04-operaciones.tex]
 archive=true
-column=9
+column=156
 encoding=UTF-8
 highlight=LaTeX
-line=0
+line=286
+open=false
+order=-1
+
+[item:05-finanzas.tex]
+archive=true
+column=0
+encoding=UTF-8
+highlight=LaTeX
+line=48
+open=false
+order=-1
+
+[item:06-analisis-financiero.tex]
+archive=true
+column=558
+encoding=UTF-8
+highlight=LaTeX
+line=7
 open=false
 order=-1
 
