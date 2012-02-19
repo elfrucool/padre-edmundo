@@ -24,7 +24,6 @@
 \doublespacing
 \sethlcolor{red}
 \counterwithout*{footnote}{chapter}
-\cftpagenumbersoff{chapter}
 
 \hyphenation{si-guien-tes}
 
@@ -32,6 +31,8 @@
 \title{Escuela Salesiana al Alcance de los más Necesitados en Irapuato}
 
 \begin{document}
+
+\cftpagenumbersoff{chapter}
 
 \pagestyle{empty}
 
@@ -67,6 +68,8 @@
 \include{06-analisis-financiero}
 
 \include{07-evaluacion-financiera}
+
+\addtocontents{toc}{\cftpagenumberson{chapter}}
 
 \include{08-conclusiones}
 
