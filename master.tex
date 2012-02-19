@@ -2,8 +2,8 @@
 
 \usepackage[spanish]{babel}
 \usepackage[T1]{fontenc}
-\usepackage[utf8x]{inputenc}
 \usepackage{ucs}
+\usepackage[utf8x,utf8]{inputenc}
 \usepackage[scaled]{helvet}
 \usepackage[top=1in,bottom=1in,right=1in,left=3cm]{geometry} 
 \usepackage{graphicx}
@@ -17,12 +17,14 @@
 \usepackage{color}
 \usepackage{soul}
 \usepackage{nameref}
+\usepackage{tocloft}
 %\usepackage{xfrac}
 
 \renewcommand*\familydefault{\sfdefault}
 \doublespacing
 \sethlcolor{red}
 \counterwithout*{footnote}{chapter}
+\cftpagenumbersoff{chapter}
 
 \hyphenation{si-guien-tes}
 
