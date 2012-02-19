@@ -33,25 +33,26 @@
 
 \begin{document}
 
-%\maketitle
+\pagestyle{empty}
+
 \ThisCenterWallPaper{0.8}{images/PORTADA-TESIS-CON-DATOS}
 ~
-\thispagestyle{empty}
 
 \newpage
 \ThisCenterWallPaper{0.8}{images/formato-impresion}
-\thispagestyle{empty}
 ~
 
 \newpage
-\thispagestyle{empty}
 \include{00-dedicatoria}
 
 \newpage
-
+\addtocontents{toc}{\protect\thispagestyle{empty}}
 \setcounter{page}{1}
 \setcounter{tocdepth}{1}
 \tableofcontents
+
+\cleardoublepage
+\pagestyle{plain}
 
 \include{01-intro}
 
